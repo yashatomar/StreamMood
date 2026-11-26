@@ -1,8 +1,5 @@
-Perfect! Adding a `README.md` is exactly what a professional developer does. It is the face of your repository and tells your mentor (or anyone else) what the project is, how it works, and how to run it.
 
-Since you are currently at the **35% milestone**, let me give you a professional `README.md` template that you can copy and paste. It perfectly highlights exactly what you have accomplished so far.
 
-### Step 1: Paste this into your `README.md`
 
 Open your `README.md` file in VS Code, paste this in, and save it:
 
