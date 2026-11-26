@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Large Model Files (Too big for GitHub)
+models/distilbert/
+models/baseline_model.joblib
+models/tfidf_vectorizer.joblib
+models/label_encoder.pkl
+
+# Raw Data (Keep the processed CSVs, ignore the raw parquet)
+data/raw/
+*.parquet
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
