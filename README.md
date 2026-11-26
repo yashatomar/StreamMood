@@ -1,7 +1,4 @@
-
-
-
-Open your `README.md` file in VS Code, paste this in, and save it:
+#StreamMood
 
 ```markdown
 # 🎙️ StreamMood: Real-Time Chat Sentiment Analysis
